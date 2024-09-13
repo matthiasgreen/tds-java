@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AltTicker",
+            "request": "launch",
+            "mainClass": "com.example.AltTicker",
+            "projectName": "td1"
+        },
+        {
+            "type": "java",
+            "name": "Concurrency",
+            "request": "launch",
+            "mainClass": "com.example.Concurrency",
+            "projectName": "td1"
+        },
+        {
+            "type": "java",
+            "name": "ConcurrentQueue",
+            "request": "launch",
+            "mainClass": "com.example.ConcurrentQueue",
+            "projectName": "td1"
+        },
+        {
+            "type": "java",
+            "name": "GreeterRunnable",
+            "request": "launch",
+            "mainClass": "com.example.GreeterRunnable",
+            "projectName": "td1"
+        },
+        {
+            "type": "java",
+            "name": "GreeterThread",
+            "request": "launch",
+            "mainClass": "com.example.GreeterThread",
+            "projectName": "td1"
+        },
+        {
+            "type": "java",
+            "name": "RaceCondition",
+            "request": "launch",
+            "mainClass": "com.example.RaceCondition",
+            "projectName": "td1"
+        },
+        {
+            "type": "java",
+            "name": "Ticker",
+            "request": "launch",
+            "mainClass": "com.example.Ticker",
+            "projectName": "td1"
+        },
+        {
+            "type": "java",
+            "name": "TickerTimer",
+            "request": "launch",
+            "mainClass": "com.example.TickerTimer",
+            "projectName": "td1"
+        }
+    ]
+}
