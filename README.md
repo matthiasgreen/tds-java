@@ -1,1 +1,3 @@
-# tds-java
+# Solutions et notes TDs Programmation Avancée Java
+
+Trichez pas les loulous...
